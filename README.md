@@ -1,2 +1,2 @@
-# Api-to-WPpost-Scheduled-
+# Api 2 WPpost Scheduled
 scheduled update WordPress post with API data automatically everyday.
